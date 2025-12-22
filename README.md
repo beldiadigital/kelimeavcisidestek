@@ -1,1 +1,1 @@
-# kelimeavcisidestek
+Kelime Avcısı App Store Destek
